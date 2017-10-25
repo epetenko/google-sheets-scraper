@@ -29,3 +29,8 @@ function autoScrape() {
   }
 }
 ```
+This will add the new scrape, with the date, to the next empty row whenever you run it. Don't forget to save.
+
+##Set a regular time to run
+In the script editor, click on the clock icon and set a time you want to run the function. I picked once a week.
+It may ask you to verify the function with your Google account. 
